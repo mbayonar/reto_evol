@@ -43,4 +43,5 @@ public class TipoCambio extends AuditoriaEntidad {
 	public TipoCambio() {
 
 	}
+
 }
